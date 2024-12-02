@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    border: groove;
+}
+img{
+    width: 40%;
+    border-radius: 40%;
+}
+header{
+    width: 30%;
+    background-color: bisque
+    
+}
+.mari{
+    background-color:bisque
+    color: black;
+}
+h2{
+    color: rgb(66, 104, 160);
+    border-top: solid;
+    margin: 10%;
+    text-align: center;
+
+}
+.korka{
+    margin: 10%;
+    font-weight: bolder;
+}
+.section{
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+
